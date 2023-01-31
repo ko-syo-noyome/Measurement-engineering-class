@@ -26,6 +26,7 @@ use library
 ・python
 ・tensorflow
 ・Keras
+・sklearn
 ・PIL
 ・OpenCV
 ・numpy
