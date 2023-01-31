@@ -29,4 +29,5 @@ use library
 ・PIL
 ・OpenCV
 ・numpy
-・
+・sys
+
