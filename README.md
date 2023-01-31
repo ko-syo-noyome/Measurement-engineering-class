@@ -21,10 +21,12 @@ I mean it as it is.
 The model .h5 file could not be uploaded because the amount of data was too large and exceeded the github limit.
 
 
-use's library
+use library
+
 ・python
 ・tensorflow
 ・Keras
 ・PIL
 ・OpenCV
 ・numpy
+・
